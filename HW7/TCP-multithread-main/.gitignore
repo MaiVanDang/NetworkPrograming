@@ -1,0 +1,18 @@
+# Ignore build files
+server
+client
+*.o
+
+# Ignore test scripts
+test_duplicate_login.sh
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore editor-specific files
+.vscode/
+*.swp
+*~
+.DS_Store
+*.zip
